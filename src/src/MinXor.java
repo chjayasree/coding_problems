@@ -1,6 +1,6 @@
 import java.util.*;
 public class MinXor {
-   
+
     public static void main(String args[]){
         int a[]={20,6,10,4};
         Arrays.sort(a);
