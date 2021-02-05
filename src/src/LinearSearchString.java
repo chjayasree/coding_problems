@@ -3,7 +3,7 @@ public class LinearSearchString {
 
 
         String arr[] =new String[]{"bhavya","deepak","rohith"};
-        String item="Bhavya";
+        String item="DEEPAK";
         int temp=0;
         for(int i=0;i<arr.length;i++){
             if(arr[i].equals(item)){
