@@ -47,6 +47,10 @@ class Stack {
             return x;
         }
     }
+
+    public boolean isEmpty() {
+        return false;
+    }
 }
 
 class Main {
