@@ -31,7 +31,7 @@ public class String3 {
         System.out.println("Using stripTrailing() :- "+whiteSpaceTrailing.stripTrailing());
 
         System.out.println();
-       
+
     }
 
 }
